@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NUAA/Desktop/G++_Cmake_git_practice/main.cpp
+iostream
+-
+swap.h
+C:/Users/NUAA/Desktop/G++_Cmake_git_practice/swap.h
+
+C:/Users/NUAA/Desktop/G++_Cmake_git_practice/swap.cpp
+swap.h
+C:/Users/NUAA/Desktop/G++_Cmake_git_practice/swap.h
+
+C:/Users/NUAA/Desktop/G++_Cmake_git_practice/swap.h
+

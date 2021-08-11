@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/build",
+  "command": "D:\\MingW\\mingw32\\bin\\i686-w64-mingw32-g++.exe    -g   -o CMakeFiles\\my_cmake_swap.dir\\main.cpp.obj -c C:\\Users\\NUAA\\Desktop\\G++_Cmake_git_practice\\main.cpp",
+  "file": "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/main.cpp"
+},
+{
+  "directory": "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/build",
+  "command": "D:\\MingW\\mingw32\\bin\\i686-w64-mingw32-g++.exe    -g   -o CMakeFiles\\my_cmake_swap.dir\\swap.cpp.obj -c C:\\Users\\NUAA\\Desktop\\G++_Cmake_git_practice\\swap.cpp",
+  "file": "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/swap.cpp"
+}
+]
