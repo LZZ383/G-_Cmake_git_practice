@@ -1,4 +1,4 @@
-set(CMAKE_CXX_COMPILER "D:/MingW/mingw32/bin/i686-w64-mingw32-g++.exe")
+set(CMAKE_CXX_COMPILER "D:/MingW/mingw32/bin/g++.exe")
 set(CMAKE_CXX_COMPILER_ARG1 "")
 set(CMAKE_CXX_COMPILER_ID "GNU")
 set(CMAKE_CXX_COMPILER_VERSION "8.1.0")
@@ -20,9 +20,9 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 set(CMAKE_AR "D:/MingW/mingw32/bin/ar.exe")
-set(CMAKE_CXX_COMPILER_AR "D:/MingW/mingw32/bin/i686-w64-mingw32-gcc-ar.exe")
+set(CMAKE_CXX_COMPILER_AR "D:/MingW/mingw32/bin/gcc-ar.exe")
 set(CMAKE_RANLIB "D:/MingW/mingw32/bin/ranlib.exe")
-set(CMAKE_CXX_COMPILER_RANLIB "D:/MingW/mingw32/bin/i686-w64-mingw32-gcc-ranlib.exe")
+set(CMAKE_CXX_COMPILER_RANLIB "D:/MingW/mingw32/bin/gcc-ranlib.exe")
 set(CMAKE_LINKER "D:/MingW/mingw32/bin/ld.exe")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCXX 1)
