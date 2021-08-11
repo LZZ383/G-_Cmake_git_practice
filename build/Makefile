@@ -139,59 +139,35 @@ my_cmake_swap/fast:
 	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/build
 .PHONY : my_cmake_swap/fast
 
-main.obj: main.cpp.obj
-
+# target to build an object file
+main.obj:
+	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/main.obj
 .PHONY : main.obj
 
-# target to build an object file
-main.cpp.obj:
-	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/main.cpp.obj
-.PHONY : main.cpp.obj
-
-main.i: main.cpp.i
-
+# target to preprocess a source file
+main.i:
+	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/main.i
 .PHONY : main.i
 
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-
+# target to generate assembly for a file
+main.s:
+	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/main.s
 .PHONY : main.s
 
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/main.cpp.s
-.PHONY : main.cpp.s
-
-swap.obj: swap.cpp.obj
-
+# target to build an object file
+swap.obj:
+	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/swap.obj
 .PHONY : swap.obj
 
-# target to build an object file
-swap.cpp.obj:
-	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/swap.cpp.obj
-.PHONY : swap.cpp.obj
-
-swap.i: swap.cpp.i
-
+# target to preprocess a source file
+swap.i:
+	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/swap.i
 .PHONY : swap.i
 
-# target to preprocess a source file
-swap.cpp.i:
-	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/swap.cpp.i
-.PHONY : swap.cpp.i
-
-swap.s: swap.cpp.s
-
-.PHONY : swap.s
-
 # target to generate assembly for a file
-swap.cpp.s:
-	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/swap.cpp.s
-.PHONY : swap.cpp.s
+swap.s:
+	$(MAKE) -f CMakeFiles\my_cmake_swap.dir\build.make CMakeFiles/my_cmake_swap.dir/swap.s
+.PHONY : swap.s
 
 # Help Target
 help:

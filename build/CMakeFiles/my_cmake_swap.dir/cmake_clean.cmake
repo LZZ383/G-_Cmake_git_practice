@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/my_cmake_swap.dir/main.cpp.obj"
-  "CMakeFiles/my_cmake_swap.dir/swap.cpp.obj"
+  "CMakeFiles/my_cmake_swap.dir/main.obj"
+  "CMakeFiles/my_cmake_swap.dir/swap.obj"
   "libmy_cmake_swap.dll.a"
   "my_cmake_swap.exe"
   "my_cmake_swap.exe.manifest"

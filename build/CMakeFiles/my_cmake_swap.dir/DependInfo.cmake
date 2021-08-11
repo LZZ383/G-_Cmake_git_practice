@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/main.cpp" "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/build/CMakeFiles/my_cmake_swap.dir/main.cpp.obj"
-  "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/swap.cpp" "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/build/CMakeFiles/my_cmake_swap.dir/swap.cpp.obj"
+  "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/main.cpp" "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/build/CMakeFiles/my_cmake_swap.dir/main.obj"
+  "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/swap.cpp" "C:/Users/NUAA/Desktop/G++_Cmake_git_practice/build/CMakeFiles/my_cmake_swap.dir/swap.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

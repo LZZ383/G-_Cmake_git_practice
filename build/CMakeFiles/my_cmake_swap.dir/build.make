@@ -73,42 +73,42 @@ include CMakeFiles/my_cmake_swap.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/my_cmake_swap.dir/flags.make
 
-CMakeFiles/my_cmake_swap.dir/main.cpp.obj: CMakeFiles/my_cmake_swap.dir/flags.make
-CMakeFiles/my_cmake_swap.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\NUAA\Desktop\G++_Cmake_git_practice\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/my_cmake_swap.dir/main.cpp.obj"
-	D:\MingW\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\my_cmake_swap.dir\main.cpp.obj -c C:\Users\NUAA\Desktop\G++_Cmake_git_practice\main.cpp
+CMakeFiles/my_cmake_swap.dir/main.obj: CMakeFiles/my_cmake_swap.dir/flags.make
+CMakeFiles/my_cmake_swap.dir/main.obj: ../main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\NUAA\Desktop\G++_Cmake_git_practice\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/my_cmake_swap.dir/main.obj"
+	D:\MingW\mingw32\bin\i686-w64-mingw32-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\my_cmake_swap.dir\main.obj -c C:\Users\NUAA\Desktop\G++_Cmake_git_practice\main.cpp
 
-CMakeFiles/my_cmake_swap.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/my_cmake_swap.dir/main.cpp.i"
-	D:\MingW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\NUAA\Desktop\G++_Cmake_git_practice\main.cpp > CMakeFiles\my_cmake_swap.dir\main.cpp.i
+CMakeFiles/my_cmake_swap.dir/main.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/my_cmake_swap.dir/main.i"
+	D:\MingW\mingw32\bin\i686-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\NUAA\Desktop\G++_Cmake_git_practice\main.cpp > CMakeFiles\my_cmake_swap.dir\main.i
 
-CMakeFiles/my_cmake_swap.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/my_cmake_swap.dir/main.cpp.s"
-	D:\MingW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\NUAA\Desktop\G++_Cmake_git_practice\main.cpp -o CMakeFiles\my_cmake_swap.dir\main.cpp.s
+CMakeFiles/my_cmake_swap.dir/main.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/my_cmake_swap.dir/main.s"
+	D:\MingW\mingw32\bin\i686-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\NUAA\Desktop\G++_Cmake_git_practice\main.cpp -o CMakeFiles\my_cmake_swap.dir\main.s
 
-CMakeFiles/my_cmake_swap.dir/swap.cpp.obj: CMakeFiles/my_cmake_swap.dir/flags.make
-CMakeFiles/my_cmake_swap.dir/swap.cpp.obj: ../swap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\NUAA\Desktop\G++_Cmake_git_practice\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/my_cmake_swap.dir/swap.cpp.obj"
-	D:\MingW\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\my_cmake_swap.dir\swap.cpp.obj -c C:\Users\NUAA\Desktop\G++_Cmake_git_practice\swap.cpp
+CMakeFiles/my_cmake_swap.dir/swap.obj: CMakeFiles/my_cmake_swap.dir/flags.make
+CMakeFiles/my_cmake_swap.dir/swap.obj: ../swap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\NUAA\Desktop\G++_Cmake_git_practice\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/my_cmake_swap.dir/swap.obj"
+	D:\MingW\mingw32\bin\i686-w64-mingw32-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\my_cmake_swap.dir\swap.obj -c C:\Users\NUAA\Desktop\G++_Cmake_git_practice\swap.cpp
 
-CMakeFiles/my_cmake_swap.dir/swap.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/my_cmake_swap.dir/swap.cpp.i"
-	D:\MingW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\NUAA\Desktop\G++_Cmake_git_practice\swap.cpp > CMakeFiles\my_cmake_swap.dir\swap.cpp.i
+CMakeFiles/my_cmake_swap.dir/swap.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/my_cmake_swap.dir/swap.i"
+	D:\MingW\mingw32\bin\i686-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\NUAA\Desktop\G++_Cmake_git_practice\swap.cpp > CMakeFiles\my_cmake_swap.dir\swap.i
 
-CMakeFiles/my_cmake_swap.dir/swap.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/my_cmake_swap.dir/swap.cpp.s"
-	D:\MingW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\NUAA\Desktop\G++_Cmake_git_practice\swap.cpp -o CMakeFiles\my_cmake_swap.dir\swap.cpp.s
+CMakeFiles/my_cmake_swap.dir/swap.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/my_cmake_swap.dir/swap.s"
+	D:\MingW\mingw32\bin\i686-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\NUAA\Desktop\G++_Cmake_git_practice\swap.cpp -o CMakeFiles\my_cmake_swap.dir\swap.s
 
 # Object files for target my_cmake_swap
 my_cmake_swap_OBJECTS = \
-"CMakeFiles/my_cmake_swap.dir/main.cpp.obj" \
-"CMakeFiles/my_cmake_swap.dir/swap.cpp.obj"
+"CMakeFiles/my_cmake_swap.dir/main.obj" \
+"CMakeFiles/my_cmake_swap.dir/swap.obj"
 
 # External object files for target my_cmake_swap
 my_cmake_swap_EXTERNAL_OBJECTS =
 
-my_cmake_swap.exe: CMakeFiles/my_cmake_swap.dir/main.cpp.obj
-my_cmake_swap.exe: CMakeFiles/my_cmake_swap.dir/swap.cpp.obj
+my_cmake_swap.exe: CMakeFiles/my_cmake_swap.dir/main.obj
+my_cmake_swap.exe: CMakeFiles/my_cmake_swap.dir/swap.obj
 my_cmake_swap.exe: CMakeFiles/my_cmake_swap.dir/build.make
 my_cmake_swap.exe: CMakeFiles/my_cmake_swap.dir/linklibs.rsp
 my_cmake_swap.exe: CMakeFiles/my_cmake_swap.dir/objects1.rsp
