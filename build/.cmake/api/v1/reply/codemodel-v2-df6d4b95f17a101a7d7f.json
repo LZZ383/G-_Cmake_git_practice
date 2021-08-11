@@ -14,7 +14,7 @@
 					]
 				}
 			],
-			"name" : "",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -34,7 +34,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "my_cmake_swap::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-my_cmake_swap-743e6bdf1509fa33b9e9.json",
+					"jsonFile" : "target-my_cmake_swap-Debug-7fb09a12d5b51f7fd862.json",
 					"name" : "my_cmake_swap",
 					"projectIndex" : 0
 				}

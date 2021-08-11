@@ -38,7 +38,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "  -Wall -g"
+					"fragment" : "-g   -Wall -g"
 				}
 			],
 			"language" : "CXX",
@@ -54,6 +54,10 @@
 	{
 		"commandFragments" : 
 		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
 			{
 				"fragment" : "",
 				"role" : "flags"
