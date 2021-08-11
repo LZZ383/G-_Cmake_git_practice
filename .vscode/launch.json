@@ -8,14 +8,14 @@
             "name": "g++.exe - 生成和调试活动文件",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",// 生成可执行文件路径及可执行文件的名字
+            "program": "${workspaceFolder}/my_multi_swap.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${fileDirname}",
+            "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "D:\\MingW\\mingw32\\bin\\gdb.exe", 
+            "miDebuggerPath": "D:\\MingW\\mingw32\\bin\\gdb.exe",
             "setupCommands": [
                 {
                     "description": "为 gdb 启用整齐打印",
@@ -23,7 +23,7 @@
                     "ignoreFailures": true
                 }
             ],
-            "preLaunchTask": "C/C++: g++.exe 生成活动文件" //作用就是生成可执行文件，就是task中的label名
+            // "preLaunchTask": "C/C++: g++.exe 生成活动文件"
         }
     ]
 }
